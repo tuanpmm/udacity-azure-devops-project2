@@ -8,7 +8,7 @@ In this project, we will build a Github repository from scratch and create a sca
 ## Project Plan
 In this section, we will create a Trello board for task tracking as well as a spreadsheet with the estimated project plan.
 
-* A [Trello](https://trello.com/invite/b/6699cba21662ae807da73ec7/ATTI392e3f4beb3ffd4176be8128a12f433721BB5708/azure-devops-task-tracking) board for tracking tasks of the project
+* A [Trello](https://trello.com/b/TYCfqOVA/azure-devops-task-tracking) board for tracking tasks of the project
 * A project plan spreadsheet that includes in the `project-management-template.xlsx` file
 
 ## Architectural Diagram
